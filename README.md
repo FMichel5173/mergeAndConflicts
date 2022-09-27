@@ -1,1 +1,1 @@
-we will resolve conflicts
+LOCAL
