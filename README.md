@@ -1,1 +1,1 @@
-# mergeAndConflicts
+we will resolve conflicts
